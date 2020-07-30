@@ -8,3 +8,5 @@ https://docs.python.org/3/library/email.html
 https://docs.python.org/3/library/smtplib.html
 
 https://www.blog.pythonlibrary.org/2013/06/26/python-102-how-to-send-an-email-using-smtplib-email/
+
+https://www.example-code.com/python/smtp_noAuthentication.asp
